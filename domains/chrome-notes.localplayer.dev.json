@@ -1,0 +1,17 @@
+{
+    "description": "Wildcard for my NGINX Proxy Manager",
+
+    "domain": "localplayer.dev",
+    "subdomain": "chrome-notes",
+
+    "owner": {
+        "repo": "https://github.com/vasilychapaev/open-domains",
+        "email": "vasilychapaev@gmail.com"
+    },
+
+    "record": {
+        "A": ["80.68.156.10"]
+    },
+
+    "proxied": false
+}
