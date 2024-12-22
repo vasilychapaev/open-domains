@@ -1,5 +1,5 @@
 {
-    "description": "Wildcard for my NGINX Proxy Manager",
+    "description": "Chrome Extension for taking notes",
 
     "domain": "localplayer.dev",
     "subdomain": "chrome-notes",
